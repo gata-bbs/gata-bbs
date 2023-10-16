@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gata-bbs
+- 🧑‍💼 I'm working as Cybersecurity Engineer at [Bug Bounty Switzerland](https://www.bugbounty.ch)
+- 👀 I’m interested in cybersecurity (web, networking, cryptography, hardware & many more)
+- 📫 How to reach me: gata@bugbounty.ch
